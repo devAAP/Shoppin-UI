@@ -1,0 +1,60 @@
+.banner {
+	width: 100%;
+}
+
+.shipping{
+	position:absolute;
+	top:0;
+	right: 3px; 
+	background-color: black; 
+	color: white; 
+	width: 100px;
+}
+h5{
+	font-size: 15px;
+}
+.card {
+	border: none;
+
+}
+.card:hover{
+	border: 1px solid rgb(97, 51, 51);
+	outline: grey;
+}
+.comment{
+	color: rgba(100, 98, 98, 0.678);
+}
+.option{
+	color: rgb(179, 178, 178);
+}
+.btn{
+    color: #fff;
+    background-color: black;
+	border-color: none;	
+}
+
+.btn:hover{
+	background-color: rgb(255, 174, 0);
+}
+.btn-round {
+	border-radius: 100px;
+	border:0px;
+	font-size: 0.8rem;
+	padding: 10px;
+	/* outline: none; */
+	background-color: rgb(247, 244, 244);
+	margin: 5px ;
+}
+.col-10{
+	margin-top: 20px;
+
+}
+.fa-star{
+	background-color: rgb(238, 230, 230);
+}
+.decor{
+	border:1px solid rgb(184, 182, 182);
+	padding: 8px;
+}
+
+
